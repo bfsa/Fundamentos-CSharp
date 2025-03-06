@@ -1,0 +1,26 @@
+# Ignore Visual Studio for Mac / Rider-specific files
+.vscode/
+.idea/
+
+# Ignore Rider caches and settings
+.idea/
+
+# Ignore bin and obj folders (build output)
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore temporary ASP.NET files
+Temporary ASP.NET Files/
+
+# Ignore build result directories (useful in case of unit test)
+TestResults/
+
+# Ignore NuGet package cache
+.nuget/
+
